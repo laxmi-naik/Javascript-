@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width: 100px;
+    font-size: medium;
+    font-style:italic;
+    background-color: brown;
+    color: azure;
+    border: 1px solid black;
+    text-align: center;
+    align-content: center;
+    
+    
+}

@@ -1,0 +1,18 @@
+button{
+    height: 20px;
+    width: 100px;
+    color:red;
+    text-align: center;
+    background-color: blue;
+    border: 1px solid black;
+
+
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
